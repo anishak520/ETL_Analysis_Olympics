@@ -44,6 +44,6 @@ The analysis revealed the following insights, available in the attached CSV file
    - Tracked the average age of gold medal winners over the years, illustrating trends in athlete age and the youthfulness or experience needed for gold medal success.
 
 ## Concluding Remarks
-This project not only demonstrates proficiency in SparkSQL and ETL processing but also provides valuable insights into Olympic history and trends. The analysis reflects the potential of large-scale data processing in uncovering patterns across vast datasets. This project exemplifies core data analyst competencies, such as data cleaning, querying, and transforming data into actionable insights, making it a strong addition to any portfolio.
+This project not only demonstrates proficiency in SparkSQL and ETL processing but also provides valuable insights into Olympic history and trends. The analysis reflects the potential of large-scale data processing in uncovering patterns across vast datasets. This project exemplifies core data analyst competencies, such as data cleaning, querying, and transforming data into actionable insights. 
 
 Each result is saved in individual CSV files, serving as a comprehensive data resource for further exploration of Olympic Games history.
